@@ -1,4 +1,4 @@
-# # Convolutional Neural Network (CNN) from Scratch
+## Convolutional Neural Network (CNN) from Scratch
 
 This project showcases the implementation of a Convolutional Neural Network (CNN) entirely from scratch, without utilizing any deep learning frameworks like TensorFlow or PyTorch. The goal of this project was to gain a deeper understanding of the inner workings of CNNs and to demonstrate the process of building a neural network from the ground up.
 
